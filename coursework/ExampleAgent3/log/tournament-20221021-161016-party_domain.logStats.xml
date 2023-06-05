@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>agents.SimpleAgent</agentname>
+        <totalUndiscountedUtility>0.6341666666666667</totalUndiscountedUtility>
+        <totalDiscountedUtility>0.6341666666666667</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.36583333333333334</totalNashDist>
+        <totalWelfare>0.6341666666666667</totalWelfare>
+        <totalParetoDistance>0.36583333333333334</totalParetoDistance>
+        <meanDiscounted>0.6341666666666667</meanDiscounted>
+        <meanNashDistance>0.36583333333333334</meanNashDistance>
+        <meanParetoDistance>0.36583333333333334</meanParetoDistance>
+        <meanUndiscounted>0.6341666666666667</meanUndiscounted>
+        <meanWelfare>0.6341666666666667</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>ExampleAgent</agentname>
+        <totalUndiscountedUtility>1.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>1.0</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.0</totalNashDist>
+        <totalWelfare>1.0</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>1.0</meanDiscounted>
+        <meanNashDistance>0.0</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>1.0</meanUndiscounted>
+        <meanWelfare>1.0</meanWelfare>
+    </statistics>
+</agentsStatistics>

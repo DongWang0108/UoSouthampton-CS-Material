@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed Nov 30 21:30:29 CST 2022" timeOfAgreement="0.36065573770491804" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment])" domain="etc/templates/partydomain/party_domain.xml" bids="42" runtime="0.0202151" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Special Equiment]" startingAgent="ConcederNegotiationParty@66" deadline="60rounds">
+<resultsOfAgent agent="ConcederNegotiationParty@66" agentDesc="Time-based conceder" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.ConcederNegotiationParty" userUtility="0.7088405633992299" finalUtility="0.7088405633992299" discountedUtility="0.7088405633992299" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor@67" agentDesc="Agent FunctionalAcceptor" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.FunctionalAcceptor" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

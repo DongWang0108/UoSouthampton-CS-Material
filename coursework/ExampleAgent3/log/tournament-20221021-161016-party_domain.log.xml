@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Fri Oct 21 16:10:17 CST 2022" timeOfAgreement="0.01639344262295082" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.0039981" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help]" startingAgent="SimpleAgent@4" deadline="60rounds">
+<resultsOfAgent agent="SimpleAgent@4" agentDesc="Random bids until good offer is received" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.SimpleAgent" userUtility="0.6341666666666667" finalUtility="0.6341666666666667" discountedUtility="0.6341666666666667" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Oct 21 16:10:17 CST 2022" timeOfAgreement="0.01639344262295082" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.0032899" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials]" startingAgent="ExampleAgent@5" deadline="60rounds">
+<resultsOfAgent agent="ExampleAgent@5" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

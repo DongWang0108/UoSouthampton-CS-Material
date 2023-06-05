@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Dec 02 09:39:01 CST 2022" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])" bids="21" runtime="0.2430787" deadline="60rounds">
+<resultsOfAgent agent="NiceTitForTat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2011.Nice_Tit_for_Tat.NiceTitForTat" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ABMPAgent2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

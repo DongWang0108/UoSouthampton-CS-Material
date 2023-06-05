@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AgentMe">
+    <output-path>$PROJECT_DIR$/out/artifacts/AgentMe</output-path>
+    <root id="archive" name="AgentMe.jar">
+      <element id="directory" name="group1">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ExampleAgent/group1/EvaluatedBid.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ExampleAgent/group1/ValueNew.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ExampleAgent/group1/Agent1$UserModelSA$1.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ExampleAgent/group1/Agent1.class" />
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/ExampleAgent/group1/Agent1$UserModelSA.class" />
+      </element>
+    </root>
+  </artifact>
+</component>

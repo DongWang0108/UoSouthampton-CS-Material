@@ -1,0 +1,36 @@
+<utility_space> 
+<objective name="ExampleDomain" index="0" description="" etype="objective" type="objective"> 
+<issue vtype="discrete" name="price" index="1" etype="discrete" type="discrete"> 
+<item evaluation="100.0" index="1" value="1000"> 
+</item> 
+<item evaluation="50.0" index="2" value="1200"> 
+</item> 
+<item evaluation="0.0" index="3" value="1400"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="HardDisk" index="2" etype="discrete" type="discrete"> 
+<item evaluation="0.0" index="1" value="256gb"> 
+</item> 
+<item evaluation="6.0" index="2" value="512gb"> 
+</item> 
+<item evaluation="10.0" index="3" value="1tb"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Monitor" index="3" etype="discrete" type="discrete"> 
+<item evaluation="0.0" index="1" value="15"> 
+</item> 
+<item evaluation="1.0" index="2" value="17"> 
+</item> 
+</issue> 
+<weight index="1" value="0.30437070349182954"> 
+</weight> 
+<weight index="2" value="0.3974178550746744"> 
+</weight> 
+<weight index="3" value="0.2982114414334961"> 
+</weight> 
+</objective> 
+<discount_factor value="1.0"> 
+</discount_factor> 
+<reservation value="0.0"> 
+</reservation> 
+</utility_space> 

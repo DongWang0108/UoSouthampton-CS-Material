@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Fri Oct 21 04:28:09 CST 2022" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Catering, Location: Party Tent, Invitations: Plain, Music: Band, Cleanup: Specialized Materials])" bids="76" runtime="0.5346452" deadline="60rounds">
+<resultsOfAgent agent="ExampleAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="D:\ExampleAgent\out\production\ExampleAgent\ExampleAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ABMPAgent2" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.ABMPAgent2" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BayesianAgent" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.BayesianAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

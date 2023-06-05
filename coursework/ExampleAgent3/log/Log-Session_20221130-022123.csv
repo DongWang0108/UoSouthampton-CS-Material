@@ -1,0 +1,13 @@
+1,1,0.01639344262295082,SimpleAgent@14,(Offer  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])
+1,2,0.01639344262295082,ExampleAgent@15,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+2,1,0.03278688524590164,SimpleAgent@14,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: Band, Cleanup: Water and Soap])
+2,2,0.03278688524590164,ExampleAgent@15,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+3,1,0.04918032786885246,SimpleAgent@14,(Offer  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Custom, Handmade, Music: Band, Cleanup: Hired Help])
+3,2,0.04918032786885246,ExampleAgent@15,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+4,1,0.06557377049180328,SimpleAgent@14,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Photo, Music: DJ, Cleanup: Hired Help])
+4,2,0.06557377049180328,ExampleAgent@15,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+5,1,0.08196721311475409,SimpleAgent@14,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Photo, Music: MP3, Cleanup: Hired Help])
+5,2,0.08196721311475409,ExampleAgent@15,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+6,1,0.09836065573770492,SimpleAgent@14,(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap])
+6,2,0.09836065573770492,ExampleAgent@15,(Accept  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap])
+agreement,Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap],0.6533087867197029,0.5691925520977559

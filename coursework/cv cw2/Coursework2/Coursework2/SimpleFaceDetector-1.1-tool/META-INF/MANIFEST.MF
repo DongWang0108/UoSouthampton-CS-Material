@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: jsh2
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_121
+Main-Class: uk.ac.soton.ecs.jsh2.facedet.SimpleFaceDetector
+

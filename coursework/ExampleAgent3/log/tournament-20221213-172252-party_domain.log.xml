@@ -1,0 +1,25 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Tue Dec 13 17:22:52 CST 2022" timeOfAgreement="0.8852459016393442" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials])" domain="etc/templates/partydomain/party_domain.xml" bids="106" runtime="0.0368189" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials]" startingAgent="BoulwareNegotiationParty@30" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@30" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.8104286283602155" finalUtility="0.8104286283602155" discountedUtility="0.8104286283602155" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@31" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.4404567084716781" finalUtility="0.4404567084716781" discountedUtility="0.4404567084716781" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Dec 13 17:22:54 CST 2022" timeOfAgreement="0.8524590163934426" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="103" runtime="0.4468301" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap]" startingAgent="Agent_bak2@32" deadline="60rounds">
+<resultsOfAgent agent="Agent_bak2@32" agentDesc="New opponent Model" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group1.Agent_bak2" userUtility="0.7848203045598152" finalUtility="0.7848203045598152" discountedUtility="0.7848203045598152" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@33" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9286081893072814" finalUtility="0.9286081893072814" discountedUtility="0.9286081893072814" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Dec 13 17:22:56 CST 2022" timeOfAgreement="0.8688524590163934" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="105" runtime="0.3503636" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap]" startingAgent="BoulwareNegotiationParty@34" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@34" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7422226727294002" finalUtility="0.7422226727294002" discountedUtility="0.7422226727294002" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_bak2@35" agentDesc="New opponent Model" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group1.Agent_bak2" userUtility="0.6307889660805717" finalUtility="0.6307889660805717" discountedUtility="0.6307889660805717" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Dec 13 17:23:00 CST 2022" timeOfAgreement="0.5081967213114754" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help])" domain="etc/templates/partydomain/party_domain.xml" bids="61" runtime="0.4646583" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help]" startingAgent="Agent_bak2@36" deadline="60rounds">
+<resultsOfAgent agent="Agent_bak2@36" agentDesc="New opponent Model" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group1.Agent_bak2" userUtility="0.6644801685667635" finalUtility="0.6644801685667635" discountedUtility="0.6644801685667635" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent_bak2@37" agentDesc="New opponent Model" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="group1.Agent_bak2" userUtility="0.2565882643304371" finalUtility="0.2565882643304371" discountedUtility="0.2565882643304371" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

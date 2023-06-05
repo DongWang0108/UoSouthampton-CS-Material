@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="genius-9.1.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/genius/genius-9.1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/genius/genius-9.1.13.jar!/" />
+    </SOURCES>
+  </library>
+</component>

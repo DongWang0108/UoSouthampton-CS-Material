@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: null" currentTime="Tue Dec 13 01:59:45 CST 2022" lastAction="null" bids="0" runtime="4.6329956" deadline="60rounds">
+<resultsOfAgent agent="UIAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.UIAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Agent1" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="D:\ExampleAgent3\out\production\ExampleAgent\group1\Agent1.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

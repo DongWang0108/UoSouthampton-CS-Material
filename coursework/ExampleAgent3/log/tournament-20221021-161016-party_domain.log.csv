@@ -1,0 +1,4 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent;Utility;Disc. Util.;Perceived. Util.;User Bother;User Util.;Profile
+0.004;2;;60rounds;Yes;No;1;0.63417;0.63417;0.36583;0.36583;0.63417;[SimpleAgent@4];[0.6341666666666667];[0.6341666666666667];[0.0];[0.0];[0.6341666666666667];[party1_utility.xml]
+0.003;2;;60rounds;Yes;No;1;1.00000;1.00000;0.00000;0.00000;1.00000;[ExampleAgent@5];[1.0];[1.0];[1.0];[0.0];[1.0];[party1_utility.xml]

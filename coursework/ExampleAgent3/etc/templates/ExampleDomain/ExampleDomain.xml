@@ -1,0 +1,28 @@
+<negotiation_template> 
+<utility_space number_of_issues="3"> 
+<objective name="ExampleDomain" index="0" description="" etype="objective" type="objective"> 
+<issue vtype="discrete" name="price" index="1" etype="discrete" type="discrete"> 
+<item index="1" value="1000"> 
+</item> 
+<item index="2" value="1200"> 
+</item> 
+<item index="3" value="1400"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="HardDisk" index="2" etype="discrete" type="discrete"> 
+<item index="1" value="256gb"> 
+</item> 
+<item index="2" value="512gb"> 
+</item> 
+<item index="3" value="1tb"> 
+</item> 
+</issue> 
+<issue vtype="discrete" name="Monitor" index="3" etype="discrete" type="discrete"> 
+<item index="1" value="15"> 
+</item> 
+<item index="2" value="17"> 
+</item> 
+</issue> 
+</objective> 
+</utility_space> 
+</negotiation_template> 

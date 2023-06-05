@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>negotiator.parties.BoulwareNegotiationParty</agentname>
+        <totalUndiscountedUtility>2.1692731797012437</totalUndiscountedUtility>
+        <totalDiscountedUtility>2.1692731797012437</totalDiscountedUtility>
+        <numberOfSessions>4</numberOfSessions>
+        <totalNashDist>1.8584302246502635</totalNashDist>
+        <totalWelfare>5.097921060193252</totalWelfare>
+        <totalParetoDistance>0.7028580933960838</totalParetoDistance>
+        <meanDiscounted>0.5423182949253109</meanDiscounted>
+        <meanNashDistance>0.4646075561625659</meanNashDistance>
+        <meanParetoDistance>0.17571452334902096</meanParetoDistance>
+        <meanUndiscounted>0.5423182949253109</meanUndiscounted>
+        <meanWelfare>1.274480265048313</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>group1.Agent1</agentname>
+        <totalUndiscountedUtility>1.6777625436601142</totalUndiscountedUtility>
+        <totalDiscountedUtility>1.6777625436601142</totalDiscountedUtility>
+        <numberOfSessions>4</numberOfSessions>
+        <totalNashDist>3.312455874646349</totalNashDist>
+        <totalWelfare>2.5961503865294646</totalWelfare>
+        <totalParetoDistance>2.4284347063238156</totalParetoDistance>
+        <meanDiscounted>0.41944063591502856</meanDiscounted>
+        <meanNashDistance>0.8281139686615873</meanNashDistance>
+        <meanParetoDistance>0.6071086765809539</meanParetoDistance>
+        <meanUndiscounted>0.41944063591502856</meanUndiscounted>
+        <meanWelfare>0.6490375966323662</meanWelfare>
+    </statistics>
+</agentsStatistics>

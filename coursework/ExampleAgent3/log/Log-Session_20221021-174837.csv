@@ -1,0 +1,5 @@
+1,1,0.01639344262295082,Agent33@26,(Offer  bid:Bid[price: 1200, HardDisk: 1tb, Monitor: 17])
+1,2,0.01639344262295082,Group2@27,(Offer  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 15])
+2,1,0.03278688524590164,Agent33@26,(Offer  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 15])
+2,2,0.03278688524590164,Group2@27,(Accept  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 15])
+agreement,Bid[price: 1000, HardDisk: 1tb, Monitor: 15],0.7014548209765419,1.0

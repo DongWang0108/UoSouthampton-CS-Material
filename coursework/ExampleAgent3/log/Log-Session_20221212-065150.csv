@@ -1,0 +1,12 @@
+1,1,0.01639344262295082,ConcederNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials])
+1,2,0.01639344262295082,Agent1@1,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+2,1,0.03278688524590164,ConcederNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Handmade, Music: DJ, Cleanup: Water and Soap])
+2,2,0.03278688524590164,Agent1@1,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+3,1,0.04918032786885246,ConcederNegotiationParty@0,(Offer  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Water and Soap])
+3,2,0.04918032786885246,Agent1@1,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])
+4,1,0.06557377049180328,ConcederNegotiationParty@0,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Handmade, Music: Band, Cleanup: Specialized Materials])
+4,2,0.06557377049180328,Agent1@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Water and Soap])
+5,1,0.08196721311475409,ConcederNegotiationParty@0,(Offer  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Special Equiment])
+5,2,0.08196721311475409,Agent1@1,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])
+6,1,0.09836065573770492,ConcederNegotiationParty@0,(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])
+agreement,Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap],0.7219781130083336,0.9279521282656287

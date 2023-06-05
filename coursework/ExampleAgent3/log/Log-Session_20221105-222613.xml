@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sat Nov 05 22:26:13 CST 2022" timeOfAgreement="0.9064327485380117" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Printed, Music: Band, Cleanup: Specialized Materials])" domain="etc/templates/partydomain/party_domain.xml" bids="308" runtime="0.5894528" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Printed, Music: Band, Cleanup: Specialized Materials]" startingAgent="BoulwareNegotiationParty@40" deadline="170rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@40" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7055434144572945" finalUtility="0.7055434144572945" discountedUtility="0.7055434144572945" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@41" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" userUtility="0.44345267866647353" finalUtility="0.44345267866647353" discountedUtility="0.44345267866647353" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

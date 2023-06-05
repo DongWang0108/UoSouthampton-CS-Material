@@ -1,0 +1,5 @@
+1,1,0.01639344262295082,BoulwareNegotiationParty@24,(Offer  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 17])
+1,2,0.01639344262295082,ConcederNegotiationParty@25,(Offer  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 15])
+2,1,0.03278688524590164,BoulwareNegotiationParty@24,(Offer  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 17])
+2,2,0.03278688524590164,ConcederNegotiationParty@25,(Accept  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 17])
+agreement,Bid[price: 1000, HardDisk: 1tb, Monitor: 17],0.9999999999999999,0.9086399870408788

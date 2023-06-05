@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Oct 21 17:48:37 CST 2022" timeOfAgreement="0.03278688524590164" lastAction="(Accept  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 15])" domain="etc/templates/ExampleDomain/ExampleDomain.xml" bids="3" runtime="0.0142222" finalOutcome="Bid[price: 1000, HardDisk: 1tb, Monitor: 15]" startingAgent="Agent33@26" deadline="60rounds">
+<resultsOfAgent agent="Agent33@26" agentDesc="ANAC2018" utilspace="etc/templates/ExampleDomain/ExampleDomain_util1.xml" agentClass="agents.anac.y2018.agent33.Agent33" userUtility="0.7014548209765419" finalUtility="0.7014548209765419" discountedUtility="0.7014548209765419" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Group2@27" agentDesc="ANAC2018" utilspace="etc/templates/ExampleDomain/ExampleDomain_util2.xml" agentClass="agents.anac.y2018.beta_one.Group2" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

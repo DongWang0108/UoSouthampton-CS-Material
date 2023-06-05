@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Oct 21 17:33:36 CST 2022" timeOfAgreement="0.5409836065573771" lastAction="(Accept  bid:Bid[price: 1000, HardDisk: 1tb, Monitor: 17])" domain="etc/templates/ExampleDomain/ExampleDomain.xml" bids="65" runtime="1.672631" finalOutcome="Bid[price: 1000, HardDisk: 1tb, Monitor: 17]" startingAgent="BoulwareNegotiationParty@14" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@14" agentDesc="Time-based agent" utilspace="etc/templates/ExampleDomain/ExampleDomain_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9999999999999999" finalUtility="0.9999999999999999" discountedUtility="0.9999999999999999" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@15" agentDesc="Example Agent" utilspace="etc/templates/ExampleDomain/ExampleDomain_util2.xml" agentClass="ExampleAgent" userUtility="0.5105656885602594" finalUtility="0.5105656885602594" discountedUtility="0.5105656885602594" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>
